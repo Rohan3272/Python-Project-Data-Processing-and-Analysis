@@ -1,6 +1,15 @@
 # Python-Project-Data-Processing-and-Analysis
 Python project covering problem solving, NumPy analysis, pandas data processing, and data visualization using real datasets.
 
+## Key Topics Covered
+- Functions and conditional logic
+- Recursion
+- String manipulation
+- Dictionary and list operations
+- NumPy array processing
+- pandas data analysis
+- Data visualization
+
 ## Overview
 This project covers a wide range of Python concepts including problem-solving, data structures, functional programming, NumPy-based numerical analysis, and data analysis using pandas and Matplotlib. It demonstrates the ability to write clean logic, process data, and generate insights from datasets.
 
